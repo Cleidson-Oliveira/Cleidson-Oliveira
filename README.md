@@ -15,8 +15,8 @@
 
 ## 📫 How to reach me:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cleidson-Js" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img align="center" alt="Cleidson-Js" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href=""mailto:cleidsonoliveira00@gmail.com""><img align="center" alt="Cleidson-Js" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
+  <a href="https://www.linkedin.com/in/cleidson-oliveira-963ba7230/"><img align="center" alt="Cleidson-Js" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 <div/>
 <br/>
 <br/>
