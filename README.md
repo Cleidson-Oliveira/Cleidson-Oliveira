@@ -10,10 +10,20 @@
   <img align="center" alt="Cleidson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cleidson-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+<br/>
+<br/>
 
 ## 📫 How to reach me:
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cleidson-Js" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="center" alt="Cleidson-Js" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div/>
+<br/>
+<br/>
+  
+## ⚙️ Github analytics:  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleidson-Oliveira&layout=compact)](https://github.com/Cleidson-Oliveira/Cleidson-Oliveira)
+
 
 <!--
 **Cleidson-Oliveira/Cleidson-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
