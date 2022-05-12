@@ -22,7 +22,7 @@
 <br/>
   
 ## ⚙️ Github analytics:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleidson-Oliveira&layout=compact)](https://github.com/Cleidson-Oliveira/Cleidson-Oliveira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleidson-Oliveira&layout=compact)](https://github.com/Cleidson-Oliveira)
 
 
 <!--
