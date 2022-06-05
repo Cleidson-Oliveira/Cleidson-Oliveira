@@ -4,7 +4,7 @@
 
 <div>
   <b><i>
-    I'm a biomedical, but, I fell in love to program on pandemics period. <br/>
+    I'm a biomedical, but, I did fell in love to program in the pandemic period. <br/>
     I'm 26 years ago, I borned and currently living in Bahia. <br/>
     My initial goal is to become a fullstack Javascript developer, <br/>
     but other languages and programming areas also call my attention, such as: <br/>
