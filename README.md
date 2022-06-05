@@ -1,6 +1,6 @@
-<h3>
+<h2>
   Hi, I'm Cleidson Oliveira 👋
-</h3>
+</h2>
 
 <div>
   <b><i>
@@ -13,9 +13,9 @@
 </div>
 <hr/>
 
-<h4>
+<h3>
   🛠️ Tech Stack:
-</h4>
+</h3>
 
 <div style="display: inline_block">
   <img align="center" alt="Cleidson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,9 +25,9 @@
 </div>
 <br/>
 
-<h4>
+<h3>
    🌱 I’m currently learning:
-</h4>
+</h3>
 
 <div style="display: inline_block">
   <img align="center" alt="Cleidson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -36,9 +36,9 @@
 </div>
 <br/>
 
-<h4>
+<h3>
    📫 How to reach me:
-</h4>
+</h3>
 
 <div style="display: inline_block">
   <a target="_blank" href="mailto:cleidsonoliveira00@gmail.com"><img align="center" alt="Cleidson-Js" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
@@ -46,9 +46,9 @@
 <div/>
 <br/>
   
-<h4>
+<h3>
    ⚙️ Github analytics: 
-</h4>
+</h3>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleidson-Oliveira&layout=compact)](https://github.com/Cleidson-Oliveira)
 
