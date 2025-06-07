@@ -4,38 +4,11 @@
 
 <div>
   <b><i>
-    I'm a biomedical, but, I did fell in love to program in the pandemic period. <br/>
-    I'm 27 years old, I borned and currently living in Bahia. <br/>
-    My initial goal is to become a fullstack Javascript developer, <br/>
-    but other languages and programming areas also call my attention, such as: <br/>
-    artificial  intelligence and bioinformatic using mainly python.
+    I'm 29 years old, I borned and currently living in Bahia. <br/>
+    I'm a mobile developer woking with React Native<br/>
   </i></b>
 </div>
 <hr/>
-
-<h3>
-  🛠️ Tech Stack:
-</h3>
-
-<div style="display: inline_block">
-  <img align="center" alt="Cleidson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cleidson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cleidson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cleidson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-<br/>
-
-<h3>
-   🌱 I’m currently learning:
-</h3>
-
-<div style="display: inline_block">
-  <img align="center" alt="Cleidson-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Cleidson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Cleidson-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Cleidson-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-<br/>
 
 <h3>
    📫 How to reach me:
